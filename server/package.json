@@ -5,10 +5,11 @@
   "main": "index.js",
   "scripts": {
 
-    "build": "echo \"No build specified\" && exit 1",
+    
     "test": "echo \"No test specified\" && exit 1",
        
-    "start": "node myserver.js"
+    "start": "node myserver.js",
+    "build": "npm i"
   
   },
   "keywords": [],
